@@ -10,7 +10,7 @@ int main() {
         sum +=age[i];
     }
     average = sum/n;
-    printf("Average age = %.f",average);
+    printf("Average age = %.2f",average);
 
     return 0;
 }
