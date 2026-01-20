@@ -2,10 +2,10 @@
 
 int main() {
     int a=1000;
-    if(a<=1000)
+    if(a<1000)
     {
         printf("Cash withdraw successfully"); 
-        if(a>900)
+        if(a=1000)
         {
             printf(" Cash withdraw with fine");
         }
